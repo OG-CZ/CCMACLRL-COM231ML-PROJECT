@@ -6,7 +6,7 @@ Here is the dataset link: https://www.kaggle.com/datasets/maharshipandya/-spotif
 
 ### Results
 
-The Random Forest classifier achieved the highest accuracy in predicting Spotify song popularity categories based on musical attributes, with feature importance analysis showing which audio features most influence popularity. The model was validated on a hold-out set and selected artists, demonstrating that musical attributes can reasonably predict song popularity.
+The Random Forest classifier achieved the highest accuracy in predicting Spotify song popularity categories based on musical attributes, with feature importance analysis showing which audio features most influence popularity. The model was validated on a hold-out set and selected artists, demonstrating that musical attributes can reasonably predict song popularity
 
 ### Contributors
 
